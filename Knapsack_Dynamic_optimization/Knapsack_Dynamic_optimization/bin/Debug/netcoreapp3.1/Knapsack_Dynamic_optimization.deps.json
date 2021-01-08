@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Knapsack_Dynamic_optimization/1.0.0": {
+        "runtime": {
+          "Knapsack_Dynamic_optimization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Knapsack_Dynamic_optimization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

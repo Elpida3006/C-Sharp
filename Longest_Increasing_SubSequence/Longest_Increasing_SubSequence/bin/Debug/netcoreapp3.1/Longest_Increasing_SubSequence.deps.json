@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Longest_Increasing_SubSequence/1.0.0": {
+        "runtime": {
+          "Longest_Increasing_SubSequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest_Increasing_SubSequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
