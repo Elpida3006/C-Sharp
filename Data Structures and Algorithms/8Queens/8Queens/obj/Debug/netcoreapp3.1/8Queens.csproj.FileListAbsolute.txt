@@ -1,0 +1,13 @@
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.exe
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.deps.json
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.runtimeconfig.json
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.runtimeconfig.dev.json
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.dll
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\bin\Debug\netcoreapp3.1\8Queens.pdb
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.csprojAssemblyReference.cache
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.AssemblyInfoInputs.cache
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.AssemblyInfo.cs
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.csproj.CoreCompileInputs.cache
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.dll
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.pdb
+C:\Users\kap4ica3006\source\repos\8Queens\8Queens\obj\Debug\netcoreapp3.1\8Queens.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.exe
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.deps.json
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.runtimeconfig.json
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.runtimeconfig.dev.json
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.dll
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\bin\Debug\netcoreapp3.1\SubsetSum_withRepeats.pdb
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.csprojAssemblyReference.cache
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.AssemblyInfoInputs.cache
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.AssemblyInfo.cs
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.csproj.CoreCompileInputs.cache
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.dll
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.pdb
+C:\Users\kap4ica3006\source\repos\SubsetSum_withRepeats\SubsetSum_withRepeats\obj\Debug\netcoreapp3.1\SubsetSum_withRepeats.genruntimeconfig.cache
